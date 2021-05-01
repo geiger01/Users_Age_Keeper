@@ -1,0 +1,21 @@
+.users-wrapper {
+  margin-top: 10rem;
+  /* min-height: 30vh; */
+  width: 45%;
+  margin: auto;
+  color: black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+.user h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

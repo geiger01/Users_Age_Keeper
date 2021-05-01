@@ -1,0 +1,30 @@
+.form-wrapper {
+  margin-top: 10rem;
+  min-height: 30vh;
+  width: 45%;
+  margin: auto;
+  color: black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+form label {
+  margin: 1rem;
+}
+
+form button {
+  padding: 1rem;
+  color: white;
+  background: rgb(65, 6, 65);
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+  border-radius: 10px;
+  width: 30%;
+}
